@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "name": "Soda",
+      "category": "drink",
+      "price": 120
+    },
+    {
+      "name": "Hot-Dog",
+      "category": "food",
+      "price": 320
+    },
+    {
+      "name": "Jus d'orange",
+      "category": "drink",
+      "price": 110
+    },
+    {
+      "name": "Pizza",
+      "category": "food",
+      "price": 280
+    },
+    {
+      "name": "Chips",
+      "category": "snack",
+      "price": 180
+    },
+    {
+      "name": "Café",
+      "category": "drink",
+      "price": 150
+    },
+    {
+      "name": "Salade",
+      "category": "food",
+      "price": 300
+    },
+    {
+      "name": "Biscuits",
+      "category": "snack",
+      "price": 200
+    },
+    {
+      "name": "Thé glacé",
+      "category": "drink",
+      "price": 90
+    },
+    {
+      "name": "Burger",
+      "category": "food",
+      "price": 350
+    },
+    {
+      "name": "Popcorn",
+      "category": "snack",
+      "price": 220
+    },
+    {
+      "name": "Eau minérale",
+      "category": "drink",
+      "price": 80
+    },
+    {
+      "name": "Pâtes",
+      "category": "food",
+      "price": 290
+    },
+    {
+      "name": "Fruits secs",
+      "category": "snack",
+      "price": 210
+    },
+    {
+      "name": "Limonade",
+      "category": "drink",
+      "price": 130
+    },
+    {
+      "name": "Sandwich",
+      "category": "food",
+      "price": 330
+    },
+    {
+      "name": "Yaourt",
+      "category": "snack",
+      "price": 240
+    },
+    {
+      "name": "Coca-Cola",
+      "category": "drink",
+      "price": 140
+    },
+    {
+      "name": "Lasagne",
+      "category": "food",
+      "price": 310
+    },
+    {
+      "name": "Cookies",
+      "category": "snack",
+      "price": 230
+    },
+    {
+      "name": "Iced Tea",
+      "category": "drink",
+      "price": 100
+    },
+    {
+      "name": "Burrito",
+      "category": "food",
+      "price": 360
+    },
+    {
+      "name": "Granola bar",
+      "category": "snack",
+      "price": 260
+    },
+    {
+      "name": "Lait",
+      "category": "drink",
+      "price": 170
+    },
+    {
+      "name": "Salmon roll",
+      "category": "food",
+      "price": 340
+    },
+    {
+      "name": "Pretzels",
+      "category": "snack",
+      "price": 190
+    },
+    {
+      "name": "Smoothie",
+      "category": "drink",
+      "price": 110
+    },
+    {
+      "name": "Chicken wings",
+      "category": "food",
+      "price": 370
+    },
+    {
+      "name": "Trail mix",
+      "category": "snack",
+      "price": 270
+    }
+  ]
+}
